@@ -1,7 +1,7 @@
 ---
 id: matryoshka-embeddings-detail-at-multiple-scales
 title: "Matryoshka Embeddings: Detail at Multiple Scales"
-author: Stefan Webb, David Wang
+author: Stefan Webb
 date: 2024-10-30
 desc: Embeddings with shortened dimensions without sacrificing semantic integrity, ideal for more efficient search and storage. 
 metaTitle: What are Matryoshka Embeddings? 
