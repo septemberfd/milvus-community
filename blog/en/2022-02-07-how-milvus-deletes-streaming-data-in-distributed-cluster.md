@@ -1,6 +1,6 @@
 ---
 id: 2022-02-07-how-milvus-deletes-streaming-data-in-distributed-cluster.md
-title: How Milvus Deletes Streaming Data in a Distributed Cluster
+title: How Milvus Deletes Streaming Data in a Distributed Clusterxxxxxx
 author: Lichen Wang
 date: 2022-02-07
 desc: The cardinal design behind the deletion function in Milvus 2.0, the world's most advanced vector database.
